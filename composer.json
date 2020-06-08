@@ -1,0 +1,16 @@
+{
+  "name": "shrimp-validation",
+  "type": "library",
+  "description": "Validation package",
+  "keywords": ["relevant","tags","go","here"],
+  "homepage": "https://yourcompany.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Fathi ALAMRE",
+      "email": "fathialamre90@gmail.com",
+      "homepage": "http://seld.be",
+      "role": "PHP Developer"
+    }
+  ]
+}
